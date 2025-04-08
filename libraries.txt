@@ -1,0 +1,19 @@
+1. pandas
+Purpose: Essential for data manipulation and analysis. It provides data structures like DataFrame that make it easier to work with structured data, especially for cleaning, merging, and transforming datasets.
+
+
+2. numpy
+Purpose: A library for numerical operations. It provides powerful array structures and mathematical functions, which are useful for working with large datasets and performing mathematical operations.
+
+3. scikit-learn
+Purpose: A machine learning library that provides simple and efficient tools for data mining and data analysis. It is built on top of numpy and scipy and is widely used for tasks like classification, regression, clustering, and model evaluation.
+
+4. matplotlib
+Purpose: A plotting library used to create static, animated, and interactive visualizations in Python.
+
+5. streamlit
+Purpose: An open-source app framework to quickly create interactive web applications for machine learning and data science projects.
+
+
+
+
